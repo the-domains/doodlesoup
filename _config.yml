@@ -1,0 +1,28 @@
+name: doodlesoup
+favicon: null
+layout_spectrum: 0.36977930227294564
+typography_spectrum: 0.11884776223450899
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.7048868159763515
+  lightness: 0.014783923979848623
+  saturation: 0.5061944003682584
+  rhythmicContrast: 0.42602671566419303
+purpose: []
